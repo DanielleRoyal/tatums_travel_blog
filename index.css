@@ -20,3 +20,11 @@ body{
 a{
     color: pink;
 }
+img{
+    display: block;
+    height: 20%;
+    border: lightseagreen;
+}
+.subheadingw{
+    border-bottom: underline;
+}
